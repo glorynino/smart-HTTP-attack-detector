@@ -26,3 +26,15 @@ The goal is to design and implement a system capable of detecting **malicious HT
 - **Languages**: Python  
 - **Frameworks/Libraries**: Scikit-learn, TensorFlow/PyTorch, Flask/FastAPI  
 - **Tools**: Jupyter Notebook, Git
+---
+
+## 📂 Dataset
+The dataset used in this project is not stored in this repository.  
+You can download it from the following source:
+
+🔗 [Dataset URL](https://www.kaggle.com/code/monicamedhat12/csic-2010-web-application-attacks-classifier)
+
+After downloading, place the files inside the `data/` folder:
+
+
+
